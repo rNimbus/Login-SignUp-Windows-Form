@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SharpDevelop Projects\Login&SignUp\Login&SignUp\bin\Debug\Login&SignUp.exe
+C:\Users\User\Documents\SharpDevelop Projects\Login&SignUp\Login&SignUp\bin\Debug\Login&SignUp.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Login&SignUp\Login&SignUp\obj\Debug\Login&SignUp.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Login&SignUp\Login&SignUp\obj\Debug\Login_SignUp.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\Login&SignUp\Login&SignUp\obj\Debug\Login&SignUp.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\Login&SignUp\Login&SignUp\obj\Debug\Login&SignUp.exe
+C:\Users\User\Documents\SharpDevelop Projects\Login&SignUp\Login&SignUp\obj\Debug\Login&SignUp.pdb
